@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=mkushal10)
 - 👋 Hi, I’m @mkushal10
 - 👀 I’m interested in Programmiing
 - 🌱 I’m currently learning .NET and Django.
