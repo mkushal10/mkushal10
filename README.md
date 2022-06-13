@@ -1,9 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=mkushal10)
-- 👋 Hi, I’m @mkushal10
-- 👀 I’m interested in Programmiing
-- 🌱 I’m currently learning .NET and Django.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Kushal Neupane.
+- 👀 I’m interested in the field of Science and Technology.
+- 🌱 I’m currently learning django framework.
+- Started a Startup company Kush Tech Nepal Pvt. Ltd.
 
 <!---
 mkushal10/mkushal10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
